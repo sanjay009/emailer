@@ -1,0 +1,4 @@
+emailer
+=======
+
+Simple emailer.
